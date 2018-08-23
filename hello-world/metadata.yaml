@@ -1,0 +1,4 @@
+---
+templates:
+    - hello_name.sh.tmpl:
+        name: shuff
