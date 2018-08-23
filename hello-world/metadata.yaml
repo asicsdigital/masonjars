@@ -1,4 +1,6 @@
 ---
 templates:
-    - hello_name.sh.tmpl:
-        name: shuff
+    hello_name:
+        path: /hello_name.txt
+        parameters:
+            name: shuff
