@@ -1,4 +1,5 @@
 ---
+prefix: hello-
 templates:
     hello_name:
         path: /hello_name.txt
